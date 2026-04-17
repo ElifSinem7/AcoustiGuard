@@ -1,0 +1,12 @@
+numpy
+pandas
+scipy
+scikit-learn
+librosa
+sounddevice
+joblib
+matplotlib
+seaborn
+tqdm
+pyserial
+requests

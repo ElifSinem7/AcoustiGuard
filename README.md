@@ -1,3 +1,4 @@
+# AcoustiGuard
 
 Project Title: AcoustiGuard – Acoustic Anomaly Detection & Graceful Shutdown System
 

@@ -1,0 +1,15 @@
+{
+  "model_id": "id_00",
+  "best_params": {
+    "n_estimators": "150",
+    "max_samples": "auto",
+    "contamination": "0.01"
+  },
+  "threshold": -0.383942296919276,
+  "auc_roc": 0.5766330593916801,
+  "avg_precision": 0.7113438394454773,
+  "precision": 0.696969696969697,
+  "recall": 0.9606879606879607,
+  "f1": 0.8078512396694215,
+  "n_features": 60
+}

@@ -1,0 +1,44 @@
+{
+  "model": "IsolationForest",
+  "channel": "vibration",
+  "model_id": "id_00",
+  "n_estimators": 200,
+  "contamination": 0.05,
+  "window_size": 50,
+  "step_size": 25,
+  "n_normal_windows": 67894,
+  "n_fault_windows": 63450,
+  "roc_auc": 0.9686,
+  "default_threshold": {
+    "value": 0.0,
+    "f1": 0.9293,
+    "precision": 0.9447,
+    "recall": 0.9145
+  },
+  "best_threshold": {
+    "value": -0.020788,
+    "f1": 0.9334,
+    "precision": 0.9686,
+    "recall": 0.9007
+  },
+  "feature_names": [
+    "ax_mean",
+    "ax_std",
+    "ax_min",
+    "ax_max",
+    "ax_rms",
+    "ax_p2p",
+    "ay_mean",
+    "ay_std",
+    "ay_min",
+    "ay_max",
+    "ay_rms",
+    "ay_p2p",
+    "az_mean",
+    "az_std",
+    "az_min",
+    "az_max",
+    "az_rms",
+    "az_p2p"
+  ]
+}
